@@ -1,4 +1,4 @@
-# Slow stub
+# Bad stubs
 
 This is the configuration file for a Hoverfly stub that will respond to every http or https request, but only after a delay of 600k milliseconds (10 minutes).
 
