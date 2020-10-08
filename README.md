@@ -31,8 +31,9 @@ To run this using a Docker instance of Hoverfly
 ## TODO
 
 There's other stub configs as well:
-- one that will send infinite redirects to a client, causing it to keep sending requests
-- one that returns service unavailable (http 503)
-- one that returns internal service error (http 500)
+- ~one that will send infinite redirects to a client, causing it to keep sending requests~
+- ~one that returns service unavailable (http 503)~
+- ~one that returns internal service error (http 500)~
+- one that returns timeouts (http 408)
 
 I'll get around to documenting them soon...
